@@ -1,0 +1,47 @@
+# [Uygulama Adınız] Gizlilik Politikası
+
+**Son Güncelleme:** 15 Eylül 2025
+
+Bu gizlilik politikası, Pro AI Coaching ("Uygulama", "biz", "bize" veya "bizim") tarafından toplanan, kullanılan ve paylaşılan bilgileri açıklamaktadır. Uygulamamızı kullanarak bu gizlilik politikasını kabul etmiş olursunuz.
+
+### Topladığımız Bilgiler
+
+Uygulamamızın temel işlevlerini yerine getirebilmesi için aşağıdaki bilgileri toplarız:
+
+* **Kişisel Olarak Sağladığınız Bilgiler:**
+    * **Hesap Bilgileri:** Kayıt olurken sağladığınız ad-soyad ve e-posta adresi.
+    * **Vücut ve Hedef Bilgileri:** Uygulamanın size özel planlar oluşturabilmesi için girdiğiniz yaş, boy, kilo, cinsiyet, yağ oranı, antrenman deneyimi ve fitness hedefi gibi veriler.
+* **Görsel Bilgiler:**
+    * **Fotoğraflar:** Antrenman programı oluşturma ve gelişim takibi ("Form Check") özellikleri için yüklediğiniz vücut fotoğrafları.
+
+### Bilgileri Nasıl Kullanıyoruz?
+
+Topladığımız bilgileri aşağıdaki amaçlar için kullanırız:
+
+* **Kişiselleştirme:** Size özel ve hedeflerinize uygun yapay zeka destekli antrenman ve beslenme programları oluşturmak.
+* **Hizmet Sağlama:** Hesabınızı yönetmek, uygulama içi abonelikleri doğrulamak ve size müşteri desteği sunmak.
+* **İletişim:** Uygulama güncellemeleri veya hesabınızla ilgili önemli bildirimler hakkında sizinle iletişime geçmek.
+
+### Üçüncü Taraf Servisler
+
+Uygulamamızın çalışması için aşağıdaki üçüncü taraf servislerden yararlanıyoruz:
+
+* **Firebase (Google):** Kullanıcı kimlik doğrulaması, veritabanı (Firestore) ve dosya depolama (Storage) hizmetleri için kullanılır. Firebase'in kendi gizlilik politikası geçerlidir.
+* **Google AI (Gemini):** Yapay zeka analizleri ve önerileri oluşturmak için kullanılır. Analiz için gönderilen veriler (profil bilgileriniz ve fotoğraflarınız) Google'ın gizlilik politikalarına tabidir.
+* **RevenueCat:** Uygulama içi abonelikleri ve satın almaları yönetmek için kullanılır.
+
+### Veri Güvenliği
+
+Kullanıcı verilerinizin güvenliğini ciddiye alıyoruz. Tüm verileriniz, Firebase'in sağladığı güvenli altyapı üzerinde saklanmaktadır. Verilerinize yetkisiz erişimi engellemek için makul teknik ve idari güvenlik önlemleri almaktayız.
+
+### Kullanıcı Hakları
+
+Profilinizdeki bilgileri (boy, kilo, yağ oranı vb.) dilediğiniz zaman uygulama içerisindeki "Profili Düzenle" ekranından güncelleyebilirsiniz.
+
+### Gizlilik Politikasındaki Değişiklikler
+
+Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayınlandığı andan itibaren geçerli olacaktır.
+
+### İletişim
+
+Gizlilik politikamızla ilgili herhangi bir sorunuz veya endişeniz varsa, lütfen bize phonebookanalyesis@gmail.com e-posta adresinden ulaşın.
